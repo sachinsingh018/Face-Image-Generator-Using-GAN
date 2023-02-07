@@ -1,4 +1,4 @@
-# Face_Generator
+# Face Image Generation using Generative Adversarial Network
 
 A GAN (Generative Adversarial Network) is a type of machine learning system developed by Ian Goodfellow and his team in 2014. It consists of two neural networks that compete with each other in a zero-sum game where one's gain is the other's loss. The GAN is trained on a set of data and uses this information to generate new data with the same characteristics as the training set. For instance, a GAN trained on photos can produce new photos that appear realistic to human eyes. Although originally created for unsupervised learning, GANs have also shown success in semi-supervised, fully supervised, and reinforcement learning. The core concept of a GAN is the indirect training through a discriminator network that assesses the realism of the generated data. This setup allows the generator to learn in an unsupervised manner, not by minimizing the difference to a specific image, but by fooling the discriminator.
 
