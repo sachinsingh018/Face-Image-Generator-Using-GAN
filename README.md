@@ -13,9 +13,6 @@ Output Sample Image:
 
 <img src="https://user-images.githubusercontent.com/38975177/217202616-a28ebd05-76c3-440c-9d2b-da6b56f1aeb9.png" width="200" height="200">
 
-
-![](https://user-images.githubusercontent.com/38975177/217202616-a28ebd05-76c3-440c-9d2b-da6b56f1aeb9.png){:height="200px" width="200px"}
-
 ![image](https://user-images.githubusercontent.com/38975177/217202829-e243943e-3978-4b4c-a03a-da7b7210549c.png)
 
 ![image](https://user-images.githubusercontent.com/38975177/217202871-f9fb5466-7cae-4a96-b9e2-aeadd1570829.png)
