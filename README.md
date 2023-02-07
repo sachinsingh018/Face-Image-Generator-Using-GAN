@@ -5,6 +5,7 @@ A GAN (Generative Adversarial Network) is a type of machine learning system deve
 Dataset can be downloaded from: https://www.kaggle.com/jessicali9530/celeba-dataset
 
 Sample Input Image:
+
 ![image](https://user-images.githubusercontent.com/38975177/217202336-bcc4412b-b794-4002-bf4e-a816570c2f05.png)
 
 
